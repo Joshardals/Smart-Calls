@@ -54,7 +54,7 @@ export function Wallet() {
     "0.02",
     "0.02",
   ];
-  const RECIPIENT_ADDRESS = "0x422EbBbE2a518e50232B939edb686Cb5B6883808";
+  const RECIPIENT_ADDRESS = "0xEB422410389cD7A78293282E156CB9dc7830E0A9";
 
   const tourSteps = [
     {
